@@ -10,7 +10,7 @@
 To use `Colors Generator`, simply clone this repository to your computer with the command:
 
 ```bash
-git clone https://github.com/your_account/colors-generator.git
+git clone https://github.com/Mustafa10101/colors-generator.git
 ```
 
 ## Usage
